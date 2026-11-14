@@ -1,10 +1,75 @@
 {
-  "shows": {},
+  "shows": {
+    "FSCK|152191|20261116|PREMIER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:00 AM",
+      "date": "20261116",
+      "cat": "PREMIER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "FSCK|152191|20261116|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:00 AM",
+      "date": "20261116",
+      "cat": "SILVER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "FSCK|152192|20261116|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:50 PM",
+      "date": "20261116",
+      "cat": "SILVER",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FSCK|152192|20261116|PREMIER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:50 PM",
+      "date": "20261116",
+      "cat": "PREMIER",
+      "price": "370.00",
+      "status": "3"
+    },
+    "FSCK|152226|20261117|PREMIER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:00 AM",
+      "date": "20261117",
+      "cat": "PREMIER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "FSCK|152226|20261117|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:00 AM",
+      "date": "20261117",
+      "cat": "SILVER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "FSCK|152230|20261117|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:50 PM",
+      "date": "20261117",
+      "cat": "SILVER",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FSCK|152230|20261117|PREMIER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:50 PM",
+      "date": "20261117",
+      "cat": "PREMIER",
+      "price": "370.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20261114": "BOOKABLE",
+    "20261114": "AVAILABLE",
     "20261115": "AVAILABLE",
     "20261116": "AVAILABLE",
-    "20261117": "AVAILABLE",
+    "20261117": "BOOKABLE",
     "20261118": "AVAILABLE",
     "20261119": "AVAILABLE",
     "20261120": "NOT_OPEN"
