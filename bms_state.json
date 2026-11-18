@@ -1,18 +1,18 @@
 {
   "shows": {
-    "FSCK|152295|20261119|SILVER": {
-      "venue": "INOX: South City, Kolkata",
-      "time": "10:00 AM",
-      "date": "20261119",
-      "cat": "SILVER",
-      "price": "190.00",
-      "status": "3"
-    },
     "FSCK|152295|20261119|PREMIER": {
       "venue": "INOX: South City, Kolkata",
       "time": "10:00 AM",
       "date": "20261119",
       "cat": "PREMIER",
+      "price": "190.00",
+      "status": "3"
+    },
+    "FSCK|152295|20261119|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "10:00 AM",
+      "date": "20261119",
+      "cat": "SILVER",
       "price": "190.00",
       "status": "3"
     },
